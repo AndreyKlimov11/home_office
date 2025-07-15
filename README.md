@@ -25,3 +25,12 @@ Home_Office.ipynb - Jupyter Notebook с анализом и визуализац
 ride.R - файл R для построения линейной модели 
 
 ride_data.csv - файл выгрузки из pandas для работы в R 
+
+Что сделал: 
+
+Собрал собственные данные о поездках: 
+
+start_time - стартовое время 
+end_time - конечное время
+ride type - тип транспорта (t – trolleybus, m – metro) 
+departure_arrive - отправление из дома в офис и обратно(d – departure, a – arrival)
